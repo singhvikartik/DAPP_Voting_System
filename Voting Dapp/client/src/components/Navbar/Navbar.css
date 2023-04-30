@@ -1,0 +1,14 @@
+nav {
+  background-image: linear-gradient(to right top #4f015b, #730283, #9a02ac, #c400d7);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    justify-content: space-around;
+    display: flex;
+    padding: 1.5rem;
+    align-items: center;
+  }
+  nav > h1 {
+    font-size: 3rem;
+  }
+  nav > h4:hover {
+    cursor: pointer;
+  }

@@ -1,0 +1,16 @@
+.main{
+    padding: 1rem;
+}
+button{
+    margin-block: 2rem;
+    background-color: transparent;
+    border: 1px dotted #9a02ac;
+    padding: .5rem 1rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.4s ease-in-out;
+    color: white;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0,0.35);
+
+}

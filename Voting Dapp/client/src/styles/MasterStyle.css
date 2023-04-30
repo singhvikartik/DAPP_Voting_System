@@ -1,0 +1,32 @@
+::-webkit-scrollbar{
+    display: none;
+}
+.container{
+    width: 100vw;
+    /* height: 100vh; */
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.main_container {
+    width: 50vw;
+    height: 50vh;
+    background-color: #231E39;
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0,0.35);
+    color: #b3b8cd;
+    padding: 2rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    box-shadow: 5px 8px 10px rgba(0, 0, 0,0.35);
+
+}
